@@ -1,8 +1,8 @@
 # README
 
-## GROUP <add-group-name>
+## GROUP <123>
 
-- Member 1: <add-name>
+- Member 1: <Hai Linh>
 - Member 2: <add-name>
 - Member 3: <add-name>
 - Member 4: <add-name>
